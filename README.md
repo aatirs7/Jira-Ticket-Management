@@ -10,7 +10,7 @@ This repository contains a set of PowerShell scripts for managing Jira tickets. 
 
 * JiraTicket-init.ps1
 
-  *This script is used to initialize the connection to Jira and sets up the global variables that the other scripts will use to interact with Jira.
+  * This script is used to initialize the connection to Jira and sets up the global variables that the other scripts will use to interact with Jira.
 
 * resetTickets.ps1
 
@@ -18,7 +18,7 @@ This repository contains a set of PowerShell scripts for managing Jira tickets. 
 
 * JiraTickets.psm1
 
-   *This is a PowerShell module file that contains the functions and exported commands for use in other scripts.
+   * This is a PowerShell module file that contains the functions and exported commands for use in other scripts.
 
 # Prerequisites
 
